@@ -104,7 +104,7 @@
     },
     {
       "id": 7,
-      "name": "Hocco Hazelnut Mudslide Cone Ice Cream",
+      "name": "Hocco Hazelnut Ice Cream",
       "shortDescription":"Hazelnut-flavored ice cream in a crispy cone.",
       "brand": "Hocco",
       "rating": 4.7,
@@ -139,7 +139,7 @@
     {
       "id": 9,
       "name": "Nescafe Classic Instant Coffee",
-      "shortDescription": "Enjoy the Rich Aroma of Pure Nescafe Coffee",
+      "shortDescription": "Enjoy the Rich Aroma Coffee",
       "brand": "Nestle",
       "rating": 4.8,
       "deliveryTime": "12-18 mins",
@@ -342,3 +342,4 @@
     }
   ]
 }
+
