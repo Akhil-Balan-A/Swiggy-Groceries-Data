@@ -105,7 +105,7 @@
     {
       "id": 7,
       "name": "Hocco Hazelnut Ice Cream",
-      "shortDescription":"Hazelnut-flavored ice cream in a crispy cone.",
+      "shortDescription":"Hazelnut-flavored ice cream in a cone.",
       "brand": "Hocco",
       "rating": 4.7,
       "deliveryTime": "5-8 mins",
@@ -138,7 +138,7 @@
     },
     {
       "id": 9,
-      "name": "Nescafe Classic Instant Coffee",
+      "name": "Nescafe Classic Coffee",
       "shortDescription": "Enjoy the Rich Aroma Coffee",
       "brand": "Nestle",
       "rating": 4.8,
@@ -173,7 +173,7 @@
     {
       "id": 11,
       "name": "Lays Potato Chips-American Style Cream & Onion Flavour",
-      "shortDescription":"Classic American-style cream & onion chips",
+      "shortDescription":"American-style cream & onion chips",
       "brand": "PepsiCo",
       "rating": 4.4,
       "deliveryTime": "5-8 mins",
@@ -190,7 +190,7 @@
     {
       "id": 12,
       "name": "Parle-G Biscuits",
-      "shortDescription": "Trusted glucose treat",
+      "shortDescription": "Trusted glucose biscuits for a good evening tea or coffee",
       "brand": "Parle",
       "rating": 4.6,
       "deliveryTime": "8-12 mins",
@@ -207,7 +207,7 @@
     {
       "id": 13,
       "name": "India Gate Basmati Rice",
-      "shortDescription": "Feast-grade basmati rice for daily meals",
+      "shortDescription": "Feast-grade basmati rice for daily meals, biriyani or even mandi",
       "brand": "India Gate",
       "rating": 4.9,
       "deliveryTime": "15-20 mins",
@@ -326,7 +326,7 @@
     {
       "id": 20,
       "name": "Pepsi Soft Drink Bottle",
-      "shortDescription":"light soft Drink for refreshment",
+      "shortDescription":"light soft Drink for refreshment and cooling energy",
       "brand": "Pepsi",
       "rating": 4.7,
       "deliveryTime": "10-15 mins",
@@ -342,4 +342,5 @@
     }
   ]
 }
+
 
